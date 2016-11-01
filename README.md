@@ -27,7 +27,7 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
-    [Grupo01]: Yan Pitangui
+    [Grupo01]: Yan Pitangui; Matheus Aguiar.
     [Grupo02]: [Nomes dos que participaram na avaliação]
 
 ####5.2 DECISÕES DE PROJETO
