@@ -12,22 +12,22 @@ Integrantes do grupo:<br>
 Este documento contém a especificação do projeto do banco de dados SLP(Sei Lá Projeto) e motivação da escolha realizada. <br>
 
 ###3	MINI-MUNDO<br>
-Atualmente existem no mercado rural diversas ferramentas de auxilio automatizado, porem elas não se integram este projeto tem por intuito criar uma base de dados para armazenar as principais informações necessárias para o manuseio de um ambiente rural. A principio pretende-se armazenar apenas dados advindo de leituras de sensores.<br> Alem disso os dados são obtidos são perdidos e não são utilizados para análise posterior. Com a implementação de um banco de  dados é possível armazenar estes dados e fazer analises e aprimoramentos.
+Atualmente existem no mercado rural diversas ferramentas de auxilio automatizado, porem elas nao se integram este projeto tem por intuito criar uma base de dados para armazenar as principais informações nessesarias para o manuseio de um ambiente rural. A principio pretende-se armazenar apenas dados advindo de leituras de sensores.<br>
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+![Alt text](https://github.com/IgorCanicali/SLP/blob/master/telasMocUp1/Entrar.png?raw=true "Title")
 
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/discipbd1/trab01/blob/master/sample_MC.png?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/IgorCanicali/SLP/blob/master/esquematico/esquematico.jpg?raw=true "Modelo Conceitual")
     
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
+    [Grupo01]: Yan Pitangui
     [Grupo02]: [Nomes dos que participaram na avaliação]
 
 ####5.2 DECISÕES DE PROJETO
