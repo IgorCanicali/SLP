@@ -1,0 +1,12 @@
+git clone https://github.com/IgorCanicali/SLP.git - clona o repositorio
+git status - mostra os arquivos novos(verde), vermelho deletados
+
+
+git add nome do arquivo
+git add .  - add todo mundo
+
+git commit -m "mensagem"
+
+git push origin master - joga online
+
+git pull  - baixa
