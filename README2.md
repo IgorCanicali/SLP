@@ -1,21 +1,21 @@
 # TRABALHO 01
-Trabalho desenvolvido durante a disciplina de BD
+Trabalho desenvolvido durante a disciplina de BD.
 
 #Sumário
 
 ###1	COMPONENTES<br>
-Integrantes do grupo<br>
+Integrantes do grupo:<br>
+* Gabriel de Oliveira Palmeira<br>
+* Igor Barcellos Caniçali<br>
 
 ###2	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+Este documento contém a especificação do projeto do banco de dados SLP(Sei Lá Projeto) e motivação da escolha realizada. <br>
 
 ###3	MINI-MUNDO<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+Atualmente existem no mercado rural diversas ferramentas de auxilio automatizado, porem elas não se integram este projeto tem por intuito criar uma base de dados para armazenar as principais informações necessárias para o manuseio de um ambiente rural. A principio pretende-se armazenar apenas dados advindo de leituras de sensores.<br> Alem disso os dados são obtidos são perdidos e não são utilizados para análise posterior. Com a implementação de um banco de  dados é possível armazenar estes dados e fazer analises e aprimoramentos.
 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
-
-Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
 
@@ -88,7 +88,3 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (Mínimo 6 e Máximo 10)<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
-
-
-
-
