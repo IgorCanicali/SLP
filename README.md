@@ -49,17 +49,16 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>-->
-fazenda: guarda o nome da fazenda e confere a ela um indentifiador, usado basicamente para que o usuario comprena mais facilmente onde se encontra<br>
-região: garda o nome da subregião da fazenda e confere a ela um indentifiador, usado basicamente para que o usuario comprena mais facilmente onde se encontra<br>
-setor: guarda os dados basicos a relativos ao setor a localização é multivalorado pois é um poligono, os sensores e as culturas presentes.<br>
-sensor: guarda as informações relativas ao sensor para posivel substituição.<br>
-cultura: guarda as informações relativas a cultura¹ daquela especie.<br>
-plantio: guarda as informações referentes ao platio daquela cultura naquele setor.<br>
-
-<br>
- 1: segundo o Dicionário Priberam da Língua Portuguesa cultua é:<br>
->  1. Ato, arte, modo de cultivar.
->  3. Conjunto das operações necessárias para que a terra produza."
+* fazenda: guarda o nome da fazenda e confere a ela um indentifiador, usado basicamente para que o usuario comprena mais facilmente onde se encontra<br>
+* região: garda o nome da subregião da fazenda e confere a ela um indentifiador, usado basicamente para que o usuario comprena mais facilmente onde se encontra<br>
+* setor: guarda os dados basicos a relativos ao setor a localização é multivalorado pois é um poligono, os sensores e as culturas presentes.<br>
+* sensor: guarda as informações relativas ao sensor para posivel substituição.<br>
+* cultura: guarda as informações relativas a cultura¹ daquela especie.<br>
+* plantio: guarda as informações referentes ao platio daquela cultura naquele setor.<br>
+* leitura: guarda o historico das leituras realizada pelos sensores.<br><br>
+1. segundo o Dicionário Priberam da Língua Portuguesa cultua é:<br>
+    >  1. Ato, arte, modo de cultivar.
+    >  3. Conjunto das operações necessárias para que a terra produza."
 
 ### 6	MODELO LÓGICO<br>
 ### 7	MODELO FÍSICO<br>
