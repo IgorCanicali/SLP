@@ -58,8 +58,8 @@ plantio: guarda as informações referentes ao platio daquela cultura naquele se
 
 <br>
  1: segundo o Dicionário Priberam da Língua Portuguesa cultua é:<br>
-> 1. .Ato, arte, modo de cultivar.
-> 3. Conjunto das operações necessárias para que a terra produza.
+>  1. Ato, arte, modo de cultivar.
+>  3. Conjunto das operações necessárias para que a terra produza."
 
 ### 6	MODELO LÓGICO<br>
 ### 7	MODELO FÍSICO<br>
