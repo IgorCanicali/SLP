@@ -57,8 +57,8 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 * plantio: guarda as informações referentes ao platio daquela cultura naquele setor.<br>
 * leitura: guarda o historico das leituras realizada pelos sensores.<br><br>
 1. segundo o Dicionário Priberam da Língua Portuguesa cultua é:<br>
-    >  1. Ato, arte, modo de cultivar.
-    >  3. Conjunto das operações necessárias para que a terra produza."
+>  1. Ato, arte, modo de cultivar.
+>  3. Conjunto das operações necessárias para que a terra produza."
 
 ### 6	MODELO LÓGICO<br>
 ### 7	MODELO FÍSICO<br>
