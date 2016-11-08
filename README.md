@@ -33,7 +33,7 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
         <!--NOTACAO UML(caso tenha)-->
 #### 5.1 Validação do Modelo Conceitual
     [Grupo01]: Yan Pitangui; Matheus Aguiar.
-    [Grupo02]: [Nomes dos que participaram na avaliação]
+    [Grupo02]: Casiano
 
 #### 5.2 DECISÕES DE PROJETO
 <!--    [atributo]: [descrição da decisão]
@@ -44,7 +44,7 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
     b) justifique!-->
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
-<!--    [objeto]: [descrição do objeto]
+<!-- [objeto]: [descrição do objeto]
     
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
@@ -55,6 +55,7 @@ setor: guarda os dados basicos a relativos ao setor a localização é multivalo
 sensor: guarda as informações relativas ao sensor para posivel substituição.<br>
 cultura: guarda as informações relativas a cultura¹ daquela especie.<br>
 plantio: guarda as informações referentes ao platio daquela cultura naquele setor.<br>
+
 <br>
  1: segundo o Dicionário Priberam da Língua Portuguesa cultua é:<br>
 > 1. .Ato, arte, modo de cultivar.
