@@ -12,7 +12,7 @@ Integrantes do grupo:<br>
 Este documento contém a especificação do projeto do banco de dados SLP(Sei Lá Projeto) e motivação da escolha realizada. <br>
 
 ### 3	MINI-MUNDO<br>
-Atualmente existem no mercado rural diversas ferramentas de auxilio automatizado, porem elas nao se integram este projeto tem por intuito criar uma base de dados para armazenar as principais informações nessesarias para o manuseio de um ambiente rural. A principio pretende-se armazenar apenas dados advindo de leituras de sensores.<br>
+Atualmente existem no mercado rural diversas ferramentas de auxilio automatizado, porem elas nao se integram este projeto tem por intuito criar uma base de dados para armazenar as principais informações nessesarias para o manuseio de um ambiente rural. A principio pretende-se armazenar apenas dados advindo de leituras de sensores. Seria possivel atrelar ao dados um tratamento instantaneo para correção de parametros fora do ideal e uma inteligencia atrificial para otimização do sistema<br>
 
 ### 4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
@@ -33,32 +33,32 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
         <!--NOTACAO UML(caso tenha)-->
 #### 5.1 Validação do Modelo Conceitual
     [Grupo01]: Yan Pitangui; Matheus Aguiar.
-    [Grupo02]: Casiano
+    [Grupo02]: Casiano(falta revalidar)
 
 #### 5.2 DECISÕES DE PROJETO
 <!--    [atributo]: [descrição da decisão]
-    
-    EXEMPLO:
+        EXEMPLO:
     a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
     pode possuir para cada departamento mais de uma localização... 
     b) justifique!-->
 
+
 #### 5.3 DESCRIÇÃO DOS DADOS 
 <!-- [objeto]: [descrição do objeto]
-    
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>-->
-* fazenda: guarda o nome da fazenda e confere a ela um indentifiador, usado basicamente para que o usuario comprena mais facilmente onde se encontra<br>
-* região: garda o nome da subregião da fazenda e confere a ela um indentifiador, usado basicamente para que o usuario comprena mais facilmente onde se encontra<br>
-* setor: guarda os dados basicos a relativos ao setor a localização é multivalorado pois é um poligono, os sensores e as culturas presentes.<br>
-* sensor: guarda as informações relativas ao sensor para posivel substituição.<br>
-* cultura: guarda as informações relativas a cultura¹ daquela especie.<br>
-* plantio: guarda as informações referentes ao platio daquela cultura naquele setor.<br>
-* leitura: guarda o historico das leituras realizada pelos sensores.<br><br>
-1. segundo o Dicionário Priberam da Língua Portuguesa cultua é:<br>
->  "1. Ato, arte, modo de cultivar."<br>
->  "3. Conjunto das operações necessárias para que a terra produza."<br>
+
+   * fazenda: guarda o nome da fazenda e confere a ela um indentifiador, usado basicamente para que o usuario comprena mais facilmente onde se encontra<br>
+   * região: garda o nome da subregião da fazenda e confere a ela um indentifiador, usado basicamente para que o usuario comprena mais facilmente onde se encontra<br>
+   * setor: guarda os dados basicos a relativos ao setor a localização é multivalorado pois é um poligono, os sensores e as culturas presentes.<br>
+   * sensor: guarda as informações relativas ao sensor para posivel substituição.<br>
+   * cultura: guarda as informações relativas a cultura¹ daquela especie.<br>
+   * plantio: guarda as informações referentes ao platio daquela cultura naquele setor.<br>
+   * leitura: guarda o historico das leituras realizada pelos sensores.<br><br>
+  1. segundo o Dicionário Priberam da Língua Portuguesa cultua é:<br>
+> "1. Ato, arte, modo de cultivar."<br>
+> "3. Conjunto das operações necessárias para que a terra produza."<br>
 
 ### 6	MODELO LÓGICO<br>
 ### 7	MODELO FÍSICO<br>
