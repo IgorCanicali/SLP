@@ -16,16 +16,9 @@ Atualmente existem no mercado rural diversas ferramentas de auxilio automatizado
 
 ### 4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
-* representação da tela de login:<br>
-![tela de login](https://github.com/IgorCanicali/SLP/blob/master/telasMocUp1/Entrar.png?raw=true "tela de login")<br>
 * representação da tela inicial:<br>
 ![tela inicial](https://github.com/IgorCanicali/SLP/blob/master/telasMocUp1/main.png?raw=true "tela inicial")<br>
-* representação da tela de visualização da roça:<br>
-![tela roça](https://github.com/IgorCanicali/SLP/blob/master/telasMocUp1/generic%20statistic%20ro%C3%A7a.png?raw=true "tela roça")<br>
-* representação da tela de visualização do setor:<br>
-![tela setor](https://github.com/IgorCanicali/SLP/blob/master/telasMocUp1/generic%20statistic%20sector.png?raw=true "tela setor")<br>
-* representação da tela de geração de relatorios:<br>
-![tela setor](https://github.com/IgorCanicali/SLP/blob/master/telasMocUp1/relatorios.png?raw=true "tela setor")<br>
+[[link para o pdf das telas](https://github.com/IgorCanicali/SLP/blob/master/telasMocUp1/app.pdf)]
 
 ### 5.	MODELO CONCEITUAL<br>
         NOTACAO ENTIDADE RELACIONAMENTO
