@@ -1,4 +1,4 @@
--- GeraÁ„o de Modelo fÌsico
+-- Gera√ß√£o de Modelo f√≠sico
 -- Sql ANSI 2003 - brModelo.
 
 
@@ -8,7 +8,7 @@ nome VARCHAR(50),
 id_faz INTEGER PRIMARY KEY
 )
 
-CREATE TABLE regi„o (
+CREATE TABLE regi√£o (
 nome VARCHAR(50),
 id_reg INTEGER PRIMARY KEY,
 id_faz INTEGER,
@@ -18,11 +18,11 @@ FOREIGN KEY(id_faz) REFERENCES fazenda (id_faz)
 CREATE TABLE setor (
 id_set INTEGER PRIMARY KEY,
 id_reg INTEGER,
-FOREIGN KEY(id_reg) REFERENCES regi„o (id_reg)
+FOREIGN KEY(id_reg) REFERENCES regi√£o (id_reg)
 )
 
 CREATE TABLE cultura (
-nome VARCHAR(10),
+nome VARCHAR(50),
 id_cul NUMERIC(10) PRIMARY KEY
 )
 
