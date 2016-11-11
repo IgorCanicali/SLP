@@ -54,13 +54,20 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 > "3. Conjunto das operações necessárias para que a terra produza."<br>
 
 ### 6	MODELO LÓGICO<br>
+
+segue a imagem do modelo logico:
+![Modelo logico](https://github.com/IgorCanicali/SLP/blob/master/esquematico/logico.jpg?raw=true "Modelo logico")
+
 ### 7	MODELO FÍSICO<br>
 
+[segue o link para o codigo sql do modelo fisico](https://github.com/IgorCanicali/SLP/blob/master/esquematico/sqlcode.sql)
 
-
-        Entrega até este ponto em 25/10/2016
+ <!--       Entrega até este ponto em 25/10/2016-->
 
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+
+
+
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
         Referenciar todas as fontes referentes a :
