@@ -71,7 +71,7 @@ FOREIGN KEY(id_tip) REFERENCES tipo (id_tip)
 CREATE TABLE plantio_ (
 id_set INTEGER,
 id_cul NUMERIC(10),
-data plantio SMALLDATETIME,
+data_plantio date,
 id_plan INTEGER PRIMARY KEY,
 FOREIGN KEY(id_set) REFERENCES setor (id_set),
 FOREIGN KEY(id_cul) REFERENCES cultura (id_cul)
