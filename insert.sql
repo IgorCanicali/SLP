@@ -14,52 +14,52 @@ VALUES (corrego do gato, 1),
        (amamatiaca, 10);
 
 INSERT INTO região (nome, id_reg, id_faz)
-VALUES (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       ();
+VALUES (eucalipto, 1, 1),
+       (lagoa de tras, 2, 1),
+       (canavial, 3, 3),
+       (videira da pedra, 4, 4),
+       (café novo, 5, 3),
+       (cacau ema, 6, 3),
+       (cafe mineira, 7, 2),
+       (cafe morro, 8, 2),
+       (tulipas, 9, 8),
+       (viveiro, 10, 3);
 
 INSERT INTO setor (id_set, id_reg)
-VALUES (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       ();
+VALUES (1, 1),
+       (2, 2),
+       (3, 3),
+       (4, 2),
+       (5, 1),
+       (6, 3),
+       (7, 1),
+       (8, 2),
+       (9, 3),
+       (10, 2);
 
 INSERT INTO cultura (nome, id_cul)
-VALUES (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       ();
+VALUES (cafe, 1),
+       (cacau, 2),
+       (maconha, 3),
+       (eucalipto, 4),
+       (tulipa, 5),
+       (laranja, 6),
+       (manga, 7),
+       (jaca, 8),
+       (pitanga, 9),
+       (alface, 10);
 
 INSERT INTO leitura (momento, valor, id_sen, id_set, id_tip)
-VALUES (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       ();
+VALUES (27/05/2000 13:45:56, ),
+       (27/05/2000 13:45:56, ),
+       (27/05/2000 13:45:56, ),
+       (27/05/2000 13:45:56, ),
+       (27/05/2000 13:45:56, ),
+       (27/05/2000 13:45:56, ),
+       (27/05/2000 13:45:56, ),
+       (27/05/2000 13:45:56, ),
+       (27/05/2000 13:45:56, ),
+       (27/05/2000 13:45:56, );
 
 INSERT INTO sensor (modelo, fabricante, id_sen, id_set)
 VALUES (),
@@ -132,4 +132,3 @@ VALUES (),
        (),
        (),
        ();
-

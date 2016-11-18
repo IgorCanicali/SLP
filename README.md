@@ -60,7 +60,9 @@ segue a imagem do modelo logico:
 
 ### 7	MODELO FÍSICO<br>
 
-[segue o link para o codigo sql do modelo fisico](https://github.com/IgorCanicali/SLP/blob/master/esquematico/sqlcode.sql)
+[segue o link para o codigo sql do modelo fisico, create parte](https://github.com/IgorCanicali/SLP/blob/master/esquematico/sqlcode.sql)
+[segue o link para o codigo sql do modelo fisico, insert parte](https://github.com/IgorCanicali/SLP/blob/master/insert.sql)
+[segue o link para o codigo sql do modelo fisico, completo](https://github.com/IgorCanicali/SLP/blob/master/complete.sql)
 
  <!--       Entrega até este ponto em 25/10/2016-->
 
