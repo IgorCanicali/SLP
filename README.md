@@ -61,14 +61,11 @@ segue a imagem do modelo logico:
 ### 7	MODELO FÍSICO<br>
 
 [segue o link para o codigo sql do modelo fisico, create parte](https://github.com/IgorCanicali/SLP/blob/master/esquematico/sqlcode.sql)
-[segue o link para o codigo sql do modelo fisico, insert parte](https://github.com/IgorCanicali/SLP/blob/master/insert.sql)
-[segue o link para o codigo sql do modelo fisico, completo](https://github.com/IgorCanicali/SLP/blob/master/complete.sql)
-
  <!--       Entrega até este ponto em 25/10/2016-->
 
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 
-
+[segue o link para o codigo sql do modelo fisico, insert parte](https://github.com/IgorCanicali/SLP/blob/master/insert.sql)
 
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
@@ -104,7 +101,10 @@ segue a imagem do modelo logico:
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (Mínimo 6 e Máximo 10)<br>
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
-### 13  referencias:
+### 13  links para facilitar a correção:
 
+[segue o link para o codigo sql do modelo fisico, completo](https://github.com/IgorCanicali/SLP/blob/master/complete.sql)
+ 
+### 14  referencias:
 
 1: "cultura", in Dicionário Priberam da Língua Portuguesa [em linha], 2008-2013, http://www.priberam.pt/dlpo/cultura [consultado em 02-11-2016].
