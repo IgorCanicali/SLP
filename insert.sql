@@ -50,16 +50,16 @@ VALUES (cafe, 1),
        (alface, 10);
 
 INSERT INTO leitura (momento, valor, id_sen, id_set, id_tip)
-VALUES (27/05/2000 13:45:56, ),
-       (27/05/2000 13:45:56, ),
-       (27/05/2000 13:45:56, ),
-       (27/05/2000 13:45:56, ),
-       (27/05/2000 13:45:56, ),
-       (27/05/2000 13:45:56, ),
-       (27/05/2000 13:45:56, ),
-       (27/05/2000 13:45:56, ),
-       (27/05/2000 13:45:56, ),
-       (27/05/2000 13:45:56, );
+VALUES (27/05/2000 13:45:56, 17, 1, 1, 4),
+       (27/05/2000 13:45:56, 18, 2, 2, ),
+       (27/05/2000 13:75:56, 23, 3, 5, ),
+       (27/05/2000 13:45:66, 78, 4, 6, ),
+       (27/05/2000 13:45:56, 42, 5, 9, ),
+       (32/05/2000 13:45:56, 9, 6, 10, ),
+       (27/05/2000 25:45:56, 67, 7, 2, ),
+       (27/05/2000 13:45:56, 84, 8, 6, ),
+       (27/13/2000 13:45:56, 5, 9, 10, ),
+       (27/05/2100 13:45:56, 3, 10, 6, );
 
 INSERT INTO sensor (modelo, fabricante, id_sen, id_set)
 VALUES (),
@@ -74,16 +74,16 @@ VALUES (),
        ();
 
 INSERT INTO tipo (id_tip, nome)
-VALUES (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       ();
+VALUES (1, nivel),
+       (2, humidade),
+       (3, temperatura),
+       (4, preciptação),
+       (5, capacitancia),
+       (6, insolação),
+       (7, indutividade),
+       (8, oxigenio),
+       (9, nitrogenio),
+       (10, fosforo);
 
 INSERT INTO localizacao (localizacao_PK, altitude, latitude, longetude, id_set_FK)
 VALUES (),
@@ -98,16 +98,16 @@ VALUES (),
        ();
 
 INSERT INTO parametros (id_cul, id_tip, maximo, alto, baixo, minimo)
-VALUES (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       ();
+VALUES (1, 1, 60, 55, 50, 35),
+       (2, 1, 80, 65, 60, 45),
+       (4, 1, 90, 75, 70, 55),
+       (2, 3, 61, 56, 53, 42),
+       (1, 3, 43, 40, 47, 34),
+       (1, 8, 76, 66, 60, 52),
+       (2, 8, 81, 71, 64, 46),
+       (4, 3, 54, 48, 44, 30),
+       (7, 1, 75, 60, 55, 40),
+       (8, 1, 67, 52, 47, 32);
 
 INSERT INTO plantio_ (id_set, id_cul, data_plantio, id_plan)
 VALUES (),
