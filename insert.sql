@@ -61,18 +61,6 @@ VALUES (27/05/2000 13:45:56, 17, 1, 1, 4),
        (27/13/2000 13:45:56, 5, 9, 10, ),
        (27/05/2100 13:45:56, 3, 10, 6, );
 
-INSERT INTO sensor (modelo, fabricante, id_sen, id_set)
-VALUES (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       ();
-
 INSERT INTO tipo (id_tip, nome)
 VALUES (1, nivel),
        (2, humidade),
@@ -84,18 +72,6 @@ VALUES (1, nivel),
        (8, oxigenio),
        (9, nitrogenio),
        (10, fosforo);
-
-INSERT INTO localizacao (localizacao_PK, altitude, latitude, longetude, id_set_FK)
-VALUES (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       ();
 
 INSERT INTO parametros (id_cul, id_tip, maximo, alto, baixo, minimo)
 VALUES (1, 1, 60, 55, 50, 35),
@@ -109,17 +85,41 @@ VALUES (1, 1, 60, 55, 50, 35),
        (7, 1, 75, 60, 55, 40),
        (8, 1, 67, 52, 47, 32);
 
-INSERT INTO plantio_ (id_set, id_cul, data_plantio, id_plan)
-VALUES (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       (),
-       ();
+INSERT INTO sensor (id_sen, modelo, fabricante, id_set)
+VALUES (01, a, c, 3),
+       (02, a, b, 8),
+       (03, c, d, 3),
+       (04, d, c, 5),
+       (05, b, a, 1),
+       (06, d, d, 6),
+       (07, b, b, 5),
+       (08, b, d, 6),
+       (09, c, d, 1),
+       (10, a, b, 1);
+
+INSERT INTO localizacao (localizacao_PK, altitude, latitude, longetude, id_set_FK)
+VALUES (01, 34.53, -19.8),
+       (02, 35.13, -19.8),
+       (03, 33.42, -19.8),
+       (04, 31.01, -19.8),
+       (05, 32.34, -19.8),
+       (06, 41.51, -19.849, -40.309, 1),
+       (07, 30.45, -19.8),
+       (08, 32.76, -19.8),
+       (09, 31.65, -19.8),
+       (10, 31.27, -19.8);
+
+INSERT INTO plantio_ (id_plan, id_set, id_cul, data_plantio)
+VALUES (01, ),
+       (02, ),
+       (03, ),
+       (04, ),
+       (05, ),
+       (06, ),
+       (07, ),
+       (08, ),
+       (09, ),
+       (10, );
 
 INSERT INTO possui (id_tip, id_sen)
 VALUES (),
