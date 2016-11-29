@@ -49,7 +49,7 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
    * cultura: guarda as informações relativas a cultura¹ daquela especie.<br>
    * plantio: guarda as informações referentes ao platio daquela cultura naquele setor.<br>
    * leitura: guarda o historico das leituras realizada pelos sensores.<br><br>
-  1. segundo o Dicionário Priberam da Língua Portuguesa cultua é:<br>
+  1. segundo o Dicionário Priberam da Língua Portuguesa cultura é:<br>
 > "1. Ato, arte, modo de cultivar."<br>
 > "3. Conjunto das operações necessárias para que a terra produza."<br>
 
