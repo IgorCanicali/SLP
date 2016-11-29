@@ -25,7 +25,7 @@ id_cul NUMERIC(10) PRIMARY KEY
 );
 
 CREATE TABLE leitura (
-momento DATETIME,
+momento TIMESTAMP,
 valor VARCHAR(100),
 id_sen INTEGER,
 id_set INTEGER,
