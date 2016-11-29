@@ -1,5 +1,5 @@
 -- the complite sql to crate the tables, put the datas, and finaly read the entairy database;
--- it's divided in 3 parts the frist is the ccreation the second is the inserrt and the third is the select;
+-- it's divided in 2 parts the frist is the ccreation the second is the insert;
 
 -- frist part creation
 -- Geração de Modelo físico
@@ -224,9 +224,3 @@ VALUES (03, 08),
        (09, 03),
        (10, 01),
        (10, 06);
-
-
--- third part select;
-
-
-se
