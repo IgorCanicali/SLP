@@ -1,2 +1,15 @@
 seria interessante por junto ao plantio informações do tipo espaçamento, e um historico de pordutividade.
 talvez mudar o dado da leitura para ter a localização nele e nao no sensor depenendo se o sensor é movel ou estatico
+
+Segue uns comandos para me facilitar
+-- SELECT * FROM fazenda;
+-- SELECT * FROM região;
+-- SELECT * FROM setor;
+-- SELECT * FROM cultura;
+-- SELECT * FROM leitura;
+-- SELECT * FROM sensor;
+-- SELECT * FROM tipo;
+-- SELECT * FROM localizacao;
+-- SELECT * FROM parametros_ideais;
+-- SELECT * FROM plantio_;
+-- SELECT * FROM possui;
