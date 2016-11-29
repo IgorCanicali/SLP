@@ -57,7 +57,7 @@ id_set_FK INTEGER,
 FOREIGN KEY(id_set_FK) REFERENCES setor (id_set)
 )
 
-CREATE TABLE parametros ideais_ (
+CREATE TABLE parametros_ideais (
 id_cul NUMERIC(10),
 id_tip DECIMAL(10),
 maximo DECIMAL(10),
