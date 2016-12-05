@@ -80,13 +80,36 @@ segue a imagem do modelo logico:
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
         c) inclusão das instruções para execução de outros procedimentos necessários
 
-
-        Entrega até este ponto em 01/11/2016
-
+<!--        Entrega até este ponto em 01/11/2016 -->
 
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
-        Entrega até este ponto em 08/11/2016
+
+SELECT * FROM fazenda;
+![fazenda]()
+SELECT * FROM região;
+
+SELECT * FROM setor;
+
+SELECT * FROM cultura;
+
+SELECT * FROM leitura;
+
+SELECT * FROM sensor;
+
+SELECT * FROM tipo;
+
+SELECT * FROM localizacao;
+
+SELECT * FROM parametros_ideais;
+
+SELECT * FROM plantio_;
+
+SELECT * FROM possui;
+
+
+<!--        Entrega até este ponto em 08/11/2016 -->
+
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3)<br>
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3) <br>
