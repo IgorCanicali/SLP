@@ -125,6 +125,10 @@ SELECT * FROM possui;<br>
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (Mínimo 6 e Máximo 10)<br>
 [link](https://docs.google.com/a/ucl.br/presentation/d/1fJTncfh67IMU-tvAQD2IacRbWbnwoPrfVKKgIwTvn0s/edit?usp=sharing)
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+<ul><li> Falta de um munimundo coerente;
+<li> refazer o tempo todo o modelo logico;
+<\ul>
+
 ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 ### 13  links para facilitar a correção:
 
