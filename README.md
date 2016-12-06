@@ -68,17 +68,13 @@ segue a imagem do modelo logico:
 [segue o link para o codigo sql do modelo fisico, insert parte](https://github.com/IgorCanicali/SLP/blob/master/insert.sql)
 
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
-        Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
-        Referenciar todas as fontes referentes a :
-        a) obtenção dos dados
-        b) obtenção de códigos reutilizados
-        c) fontes de estudo para desenvolvimento do projeto
+
+        a obtenção dos dados do projeto foi de forma ficticia as vezes aleatoria, porem parte do modelo de daos foi discultida com pessoas ligadas a produção primaria para melhor adptação do modelo de dados a nescessidade.
 
 
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-        a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
-        b) inclusão das instruções de inserção dos dados nas referidas tabelas
-        c) inclusão das instruções para execução de outros procedimentos necessários
+
+        não foi utilizado SCRIPT.
 
 <!--        Entrega até este ponto em 01/11/2016 -->
 
@@ -110,23 +106,48 @@ SELECT * FROM possui;<br>
 <!--        Entrega até este ponto em 08/11/2016 -->
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3)<br>
 
-SELECT * FROM setor WHERE ID_CUL = 1;
+SELECT * FROM plantio_ where id_cul = 7;<br>
+![select_plantio__were_id_cul_=_3](https://github.com/IgorCanicali/SLP/blob/master/select_print/where/plantio_Wid_cul=7.png?raw=true "nada a declarar")<br>
+
+SELECT * FROM parametros_ideais where id_cul = 1;<br>
+![parametros_ideaisWid_cul=1](https://github.com/IgorCanicali/SLP/blob/master/select_print/where/parametros_ideaisWid_cul=1.png?raw=true "nada a declarar")<br>
+
+SELECT * FROM parametros_ideais where id_tip = 1;<br>
+![parametros_ideaisWid_tip=1](https://github.com/IgorCanicali/SLP/blob/master/select_print/where/parametros_ideaisWid_tip=1.png?raw=true "nada a declarar")<br>
 
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
+
+
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3) <br>
+
+
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
+
+
 #### 9.6	CONSULTAS COM JUNÇÃO E ORDENAÇÃO (Todas Junções)<br>
+
         Entrega até este ponto em 22/11/2016
 #### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
+
+
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4)<br>
+
+
 #### 9.9	CONSULTAS COM SELF JOIN E VIEW (Todas Possíveis)<br>
+
+
 #### 9.10	SUBCONSULTAS (Mínimo 3)<br>
+
+
         Entrega até este ponto em 29/11/2016
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (Mínimo 6 e Máximo 10)<br>
+
 [link](https://docs.google.com/a/ucl.br/presentation/d/1fJTncfh67IMU-tvAQD2IacRbWbnwoPrfVKKgIwTvn0s/edit?usp=sharing)
+
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
-<ul><li> Falta de um munimundo coerente;
-<li> refazer o tempo todo o modelo logico;
+
+* Falta de um munimundo coerente;
+* refazer o tempo todo o modelo logico;
 
 ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 ### 13  links para facilitar a correção:
