@@ -123,6 +123,7 @@ SELECT * FROM possui;<br>
 #### 9.10	SUBCONSULTAS (Mínimo 3)<br>
         Entrega até este ponto em 29/11/2016
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (Mínimo 6 e Máximo 10)<br>
+[link](https://docs.google.com/a/ucl.br/presentation/d/1fJTncfh67IMU-tvAQD2IacRbWbnwoPrfVKKgIwTvn0s/edit?usp=sharing)
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 ### 13  links para facilitar a correção:
