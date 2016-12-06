@@ -17,7 +17,7 @@ Atualmente existem no mercado rural diversas ferramentas de auxilio automatizado
 ### 4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 * representação da tela inicial:<br>
-![tela inicial](https://github.com/IgorCanicali/SLP/blob/master/telasMocUp1/main.png?raw=true "tela inicial")<br>
+![tela inicial](https://github.com/IgorCanicali/SLP/blob/master/telasMocUp1/png/main.png?raw=true "tela inicial")<br>
 [[link para o pdf das telas](https://github.com/IgorCanicali/SLP/blob/master/telasMocUp1/app.pdf)]
 
 ### 5.	MODELO CONCEITUAL<br>
