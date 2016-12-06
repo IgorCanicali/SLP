@@ -86,26 +86,27 @@ segue a imagem do modelo logico:
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 
 SELECT * FROM fazenda;
-![fazenda]()
+![fazenda](https://github.com/IgorCanicali/SLP/blob/master/select_print/fazenda.png?raw=true "fazenda")
 SELECT * FROM região;
-
+![região](https://github.com/IgorCanicali/SLP/blob/master/select_print/região.png?raw=true "região")
 SELECT * FROM setor;
-
+![setor](https://github.com/IgorCanicali/SLP/blob/master/select_print/setor.png?raw=true "setor")
 SELECT * FROM cultura;
-
+![cultura](https://github.com/IgorCanicali/SLP/blob/master/select_print/cultura.png?raw=true "cultura")
 SELECT * FROM leitura;
-
+![leitura](https://github.com/IgorCanicali/SLP/blob/master/select_print/leitura.png?raw=true "leitura")
 SELECT * FROM sensor;
-
+![sensor](https://github.com/IgorCanicali/SLP/blob/master/select_print/sensor.png?raw=true "sensor")
 SELECT * FROM tipo;
-
+![tipo](https://github.com/IgorCanicali/SLP/blob/master/select_print/tipo.png?raw=true "tipo")
 SELECT * FROM localizacao;
-
+![localizacao](https://github.com/IgorCanicali/SLP/blob/master/select_print/localizacao.png?raw=true "localizacao")
 SELECT * FROM parametros_ideais;
-
+![parametros_ideais](https://github.com/IgorCanicali/SLP/blob/master/select_print/parametros_ideais.png?raw=true "parametros_ideais")
 SELECT * FROM plantio_;
-
+![plantio_](https://github.com/IgorCanicali/SLP/blob/master/select_print/plantio_.png?raw=true "plantio_")
 SELECT * FROM possui;
+![possui](https://github.com/IgorCanicali/SLP/blob/master/select_print/possui.png?raw=true "possui")
 
 
 <!--        Entrega até este ponto em 08/11/2016 -->
