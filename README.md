@@ -86,32 +86,32 @@ segue a imagem do modelo logico:
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 
 SELECT * FROM fazenda;<br>
-![fazenda](https://github.com/IgorCanicali/SLP/blob/master/select_print/fazenda.png?raw=true "fazenda")<br>
+![fazenda](https://github.com/IgorCanicali/SLP/blob/master/select_print/select_puro/fazenda.png?raw=true "fazenda")<br>
 SELECT * FROM região;<br>
-![região](https://github.com/IgorCanicali/SLP/blob/master/select_print/região.png?raw=true "região")<br>
+![região](https://github.com/IgorCanicali/SLP/blob/master/select_print/select_puro/região.png?raw=true "região")<br>
 SELECT * FROM setor;<br>
-![setor](https://github.com/IgorCanicali/SLP/blob/master/select_print/setor.png?raw=true "setor")<br>
+![setor](https://github.com/IgorCanicali/SLP/blob/master/select_print/select_puro/setor.png?raw=true "setor")<br>
 SELECT * FROM cultura;<br>
-![cultura](https://github.com/IgorCanicali/SLP/blob/master/select_print/cultura.png?raw=true "cultura")<br>
+![cultura](https://github.com/IgorCanicali/SLP/blob/master/select_print/select_puro/cultura.png?raw=true "cultura")<br>
 SELECT * FROM leitura;<br>
-![leitura](https://github.com/IgorCanicali/SLP/blob/master/select_print/leitura.png?raw=true "leitura")<br>
+![leitura](https://github.com/IgorCanicali/SLP/blob/master/select_print/select_puro/leitura.png?raw=true "leitura")<br>
 SELECT * FROM sensor;<br>
-![sensor](https://github.com/IgorCanicali/SLP/blob/master/select_print/sensor.png?raw=true "sensor")<br>
+![sensor](https://github.com/IgorCanicali/SLP/blob/master/select_print/select_puro/sensor.png?raw=true "sensor")<br>
 SELECT * FROM tipo;<br>
-![tipo](https://github.com/IgorCanicali/SLP/blob/master/select_print/tipo.png?raw=true "tipo")<br>
+![tipo](https://github.com/IgorCanicali/SLP/blob/master/select_print/select_puro/tipo.png?raw=true "tipo")<br>
 SELECT * FROM localizacao;<br>
-![localizacao](https://github.com/IgorCanicali/SLP/blob/master/select_print/localizacao.png?raw=true "localizacao")<br>
+![localizacao](https://github.com/IgorCanicali/SLP/blob/master/select_print/select_puro/localizacao.png?raw=true "localizacao")<br>
 SELECT * FROM parametros_ideais;<br>
-![parametros_ideais](https://github.com/IgorCanicali/SLP/blob/master/select_print/parametros_ideais.png?raw=true "parametros_ideais")<br>
+![parametros_ideais](https://github.com/IgorCanicali/SLP/blob/master/select_print/select_puro/parametros_ideais.png?raw=true "parametros_ideais")<br>
 SELECT * FROM plantio_;<br>
-![plantio_](https://github.com/IgorCanicali/SLP/blob/master/select_print/plantio_.png?raw=true "plantio_")<br>
+![plantio_](https://github.com/IgorCanicali/SLP/blob/master/select_print/select_puro/plantio_.png?raw=true "plantio_")<br>
 SELECT * FROM possui;<br>
-![possui](https://github.com/IgorCanicali/SLP/blob/master/select_print/possui.png?raw=true "possui")<br>
-
-
+![possui](https://github.com/IgorCanicali/SLP/blob/master/select_print/select_puro/possui.png?raw=true "possui")<br>
 <!--        Entrega até este ponto em 08/11/2016 -->
-
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3)<br>
+
+SELECT * FROM setor WHERE ID_CUL = 1;
+
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3) <br>
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
