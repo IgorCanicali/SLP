@@ -85,28 +85,28 @@ segue a imagem do modelo logico:
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 
-SELECT * FROM fazenda;
-![fazenda](https://github.com/IgorCanicali/SLP/blob/master/select_print/fazenda.png?raw=true "fazenda")
-SELECT * FROM região;
-![região](https://github.com/IgorCanicali/SLP/blob/master/select_print/região.png?raw=true "região")
-SELECT * FROM setor;
-![setor](https://github.com/IgorCanicali/SLP/blob/master/select_print/setor.png?raw=true "setor")
-SELECT * FROM cultura;
-![cultura](https://github.com/IgorCanicali/SLP/blob/master/select_print/cultura.png?raw=true "cultura")
-SELECT * FROM leitura;
-![leitura](https://github.com/IgorCanicali/SLP/blob/master/select_print/leitura.png?raw=true "leitura")
-SELECT * FROM sensor;
-![sensor](https://github.com/IgorCanicali/SLP/blob/master/select_print/sensor.png?raw=true "sensor")
-SELECT * FROM tipo;
-![tipo](https://github.com/IgorCanicali/SLP/blob/master/select_print/tipo.png?raw=true "tipo")
-SELECT * FROM localizacao;
-![localizacao](https://github.com/IgorCanicali/SLP/blob/master/select_print/localizacao.png?raw=true "localizacao")
-SELECT * FROM parametros_ideais;
-![parametros_ideais](https://github.com/IgorCanicali/SLP/blob/master/select_print/parametros_ideais.png?raw=true "parametros_ideais")
-SELECT * FROM plantio_;
-![plantio_](https://github.com/IgorCanicali/SLP/blob/master/select_print/plantio_.png?raw=true "plantio_")
-SELECT * FROM possui;
-![possui](https://github.com/IgorCanicali/SLP/blob/master/select_print/possui.png?raw=true "possui")
+SELECT * FROM fazenda;<br>
+![fazenda](https://github.com/IgorCanicali/SLP/blob/master/select_print/fazenda.png?raw=true "fazenda")<br>
+SELECT * FROM região;<br>
+![região](https://github.com/IgorCanicali/SLP/blob/master/select_print/região.png?raw=true "região")<br>
+SELECT * FROM setor;<br>
+![setor](https://github.com/IgorCanicali/SLP/blob/master/select_print/setor.png?raw=true "setor")<br>
+SELECT * FROM cultura;<br>
+![cultura](https://github.com/IgorCanicali/SLP/blob/master/select_print/cultura.png?raw=true "cultura")<br>
+SELECT * FROM leitura;<br>
+![leitura](https://github.com/IgorCanicali/SLP/blob/master/select_print/leitura.png?raw=true "leitura")<br>
+SELECT * FROM sensor;<br>
+![sensor](https://github.com/IgorCanicali/SLP/blob/master/select_print/sensor.png?raw=true "sensor")<br>
+SELECT * FROM tipo;<br>
+![tipo](https://github.com/IgorCanicali/SLP/blob/master/select_print/tipo.png?raw=true "tipo")<br>
+SELECT * FROM localizacao;<br>
+![localizacao](https://github.com/IgorCanicali/SLP/blob/master/select_print/localizacao.png?raw=true "localizacao")<br>
+SELECT * FROM parametros_ideais;<br>
+![parametros_ideais](https://github.com/IgorCanicali/SLP/blob/master/select_print/parametros_ideais.png?raw=true "parametros_ideais")<br>
+SELECT * FROM plantio_;<br>
+![plantio_](https://github.com/IgorCanicali/SLP/blob/master/select_print/plantio_.png?raw=true "plantio_")<br>
+SELECT * FROM possui;<br>
+![possui](https://github.com/IgorCanicali/SLP/blob/master/select_print/possui.png?raw=true "possui")<br>
 
 
 <!--        Entrega até este ponto em 08/11/2016 -->
