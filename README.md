@@ -110,7 +110,7 @@ SELECT * FROM plantio_ where id_cul = 7;<br>
 ![select_plantio__were_id_cul_=_3](https://github.com/IgorCanicali/SLP/blob/master/select_print/where/plantio_Wid_cul=7.png?raw=true "nada a declarar")<br>
 
 SELECT * FROM parametros_ideais where id_cul = 1;<br>
-![parametros_ideaisWid_cul=1](https://github.com/IgorCanicali/SLP/blob/master/select_print/where/parametros_ideaisWid_cul=1.pnggj?raw=true "nada a declarar")<br>
+![parametros_ideaisWid_cul=1](https://github.com/IgorCanicali/SLP/blob/master/select_print/where/parametros_ideaisWid_cul=1.png?raw=true "nada a declarar")<br>
 
 SELECT * FROM parametros_ideais where id_tip = 1;<br>
 ![parametros_ideaisWid_tip=1](https://github.com/IgorCanicali/SLP/blob/master/select_print/where/parametros_ideaisWid_tip=1.png?raw=true "nada a declarar")<br>
