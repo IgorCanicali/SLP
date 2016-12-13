@@ -6,7 +6,7 @@ Trabalho desenvolvido durante a disciplina de BD.
 ### 1	COMPONENTES<br>
 Integrantes do grupo:<br>
 * Gabriel de Oliveira Palmeira<br>
-* Igor Barcellos Caniçali<br>
+* Igor Barcellos Caniçali - IgorCanicali@gmail.com<br>
 
 ### 2	INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados SLP(Sei Lá Projeto) e motivação da escolha realizada. <br>
