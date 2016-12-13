@@ -117,6 +117,13 @@ SELECT * FROM parametros_ideais where id_tip = 1;<br>
 
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 
+select avg(altitude) as latitde from localizacao<br>
+where id_set_fk = 1<br>
+![AVG_altitude_set_1](https://github.com/IgorCanicali/SLP/blob/master/select_print/operations/AVG_altitude_set_1.png?raw=true "nada a declarar")<br>
+
+select avg(latitude) as altitde from localizacao<br>
+where id_set_fk = 1<br>
+![AVG_latitude_set_1](https://github.com/IgorCanicali/SLP/blob/master/select_print/operations/AVG_latitude_set_1.png?raw=true "nada a declarar")<br>
 
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3) <br>
 

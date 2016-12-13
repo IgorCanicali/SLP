@@ -13,3 +13,9 @@ Segue uns comandos para me facilitar
 -- SELECT * FROM parametros_ideais;
 -- SELECT * FROM plantio_;
 -- SELECT * FROM possui;
+
+select avg(latitude) as latitde from localizacao
+where id_set_fk = 1
+
+select avg(altitude) as altitde from localizacao
+where id_set_fk = 1
