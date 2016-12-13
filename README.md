@@ -152,11 +152,11 @@ where fabricante = 'd';
 
 update sensor
 set fabricante = 'ablivietion'
-where fabricante = 'a'
+where fabricante = 'a';
 
 update sensor
 set fabricante = 'ferthirrig'
-where fabricante = 'b'
+where fabricante = 'b';
 
 #### 9.6	CONSULTAS COM JUNÇÃO E ORDENAÇÃO (Todas Junções)<br>
 
