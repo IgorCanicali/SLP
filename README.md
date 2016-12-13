@@ -142,6 +142,21 @@ where nome like '%a%'<br>
 
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
 
+delete from cultura where id_cul = 3;
+delete from fazenda where id_faz = 6;
+delete from tipo where id_tip = 2;
+
+update sensor
+set fabricante = 'hunter'
+where fabricante = 'd';
+
+update sensor
+set fabricante = 'ablivietion'
+where fabricante = 'a'
+
+update sensor
+set fabricante = 'ferthirrig'
+where fabricante = 'b'
 
 #### 9.6	CONSULTAS COM JUNÇÃO E ORDENAÇÃO (Todas Junções)<br>
 
