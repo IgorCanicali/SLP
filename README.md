@@ -127,6 +127,18 @@ where id_set_fk = 1<br>
 
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3) <br>
 
+select * from região<br>
+where nome like '%caf%'<br>
+![like_name_set_%caf%](https://github.com/IgorCanicali/SLP/blob/master/select_print/like/like_name_set_%25caf%25.png?raw=true "nada a declarar")<br>
+
+select * from fazenda<br>
+where nome like '%e%'<br>
+![like_name_faz_%e%](https://github.com/IgorCanicali/SLP/blob/master/select_print/like/like_name_faz_%25e%25.png?raw=true "nada a declarar")<br>
+
+select * from fazenda<br>
+where nome like '%a%'<br>
+![like_name_faz_%a%](https://github.com/IgorCanicali/SLP/blob/master/select_print/like/like_name_faz_%25a%25.png?raw=true "nada a declarar")<br>
+
 
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
 
