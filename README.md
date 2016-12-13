@@ -142,9 +142,9 @@ where nome like '%a%'<br>
 
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
 
-delete from cultura where id_cul = 3;
-delete from fazenda where id_faz = 6;
-delete from tipo where id_tip = 2;
+delete from cultura where id_cul = 3;<br>
+delete from fazenda where id_faz = 6;<br>
+delete from tipo where id_tip = 2;<br>
 
 update sensor
 set fabricante = 'hunter'
